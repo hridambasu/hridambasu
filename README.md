@@ -1,4 +1,4 @@
-<p align="center"><img src="https://komarev.com/ghpvc/?username=vbhattaccmu&style=flat-square&color=blue" alt=""></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=hridambasu&style=flat-square&color=blue" alt=""></p>
 
 <h1 align="center">
 ✨Hi there 👋, this is Hridam✨
