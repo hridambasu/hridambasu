@@ -16,9 +16,15 @@
   - Version Control - Git, SVN, Bitbucket
 
 - :school: My educational background: 
-  - [Jadavpur University](http://www.jaduniv.edu.in/) (Aug 2011 - May 2015) - Degree: Bachelor of Engineering.
-  - [Northeastern University](https://www.northeastern.edu/) (Aug 2015 - May 2017) - Degree: Master of Science in Computer Science
-  
+  - [Jadavpur University](http://www.jaduniv.edu.in/) (2011 - 2015) - Degree: Bachelor of Engineering in Information Technology.
+  - [Northeastern University](https://www.northeastern.edu/) (2015 - 2017) - Degree: Master of Science in Computer Science
+
+- :right_anger_bubble: Seclected Open Sourced Projects:
+  - [Crowdsourcing on Ethereum using ZKPs](https://github.com/hridambasu/swiftlancer-code)
+  - [Threshold ECDSA](https://github.com/boltlabs-inc/tss-ecdsa)
+  -  [Anon-Aadhaar using Halo2](https://github.com/anon-aadhaar/anon-aadhaar-halo2)
+  -  [Anon-Aadhaar using Noir](https://github.com/anon-aadhaar/anon-aadhaar-noir)
+
 ---
 
 
