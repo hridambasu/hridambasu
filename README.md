@@ -1,11 +1,11 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=hridambasu&style=flat-square&color=blue" alt=""></p>
 
 <h1 align="center">
-✨Hi there 👋, this is Hridam✨
+✨Hi there 👋, this is Hridam Basu✨
 </h1>
 
 ### More About Me:
-- :nerd_face:	I'm **a Cryptography Research Engineer at the Privacy and Scaling Explorations (PSE) team at Ethereum Foundation**, working on privacy-preserving blockchain applications like the **Anon-Aadhaar project**. With extensive experience in cryptographic research and engineering, I’ve worked at leading blockchain companies, including **Polygon (Matic Network), Aztec, Findora, Circularise, and Bolt Labs**.
+I'm **a Cryptography Research Engineer at the Privacy and Scaling Explorations (PSE) team at Ethereum Foundation**, working on privacy-preserving blockchain applications like the **Anon-Aadhaar project**. With extensive experience in cryptographic research and engineering, I’ve worked at leading blockchain companies, including **Polygon (Matic Network), Aztec, Findora, Circularise, and Bolt Labs**.
 
 My expertise spans the **theoretical and practical aspects of zero-knowledge proofs (ZKPs)** and **secure multiparty computation (MPC)** across diverse domains such as **privacy-focused financial applications (confidential transactions, private payments), supply chain traceability, crowdsourcing on Ethereum, blockchain gaming wallets, and energy IoT systems**.
 
