@@ -33,6 +33,11 @@ I hold an **M.S. in Computer Science from Northeastern University, Boston, USA**
   - [Threshold ECDSA](https://github.com/boltlabs-inc/tss-ecdsa)
   -  [Anon-Aadhaar using Halo2](https://github.com/anon-aadhaar/anon-aadhaar-halo2)
   -  [Anon-Aadhaar using Noir](https://github.com/anon-aadhaar/anon-aadhaar-noir)
+    
+- :speaking_head: Selected Talks:
+  - [Devcon Talk](https://www.youtube.com/watch?v=kUv1nR3HQ8w)
+  - [Findora Cryptography Workshop](https://www.youtube.com/watch?v=6XwrGgTmPXM&t=182s)
+  
 
 ---
 
