@@ -36,7 +36,7 @@ I hold an **M.S. in Computer Science from Northeastern University, Boston, USA**
     
 - :speaking_head: Selected Talks:
   - [Devcon Talk](https://www.youtube.com/watch?v=kUv1nR3HQ8w)
-  - [Findora Cryptography Workshop](https://www.youtube.com/watch?v=6XwrGgTmPXM&t=182s)
+  - [Findora Cryptography Workshop](https://www.youtube.com/watch?v=6XwrGgTmPXM&t=1s)
   
 
 ---
