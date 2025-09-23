@@ -5,7 +5,7 @@
 </h1>
 
 ### More About Me:
-I'm **a Cryptography Research Engineer at the Privacy and Scaling Explorations (PSE) team at Ethereum Foundation**, working on privacy-preserving blockchain applications like the **Anon-Aadhaar project**. With extensive experience in cryptographic research and engineering, I’ve worked at leading blockchain companies, including **Polygon (Matic Network), Aztec, Findora, Circularise, and Bolt Labs**.
+I'm the Founder of Rump Labs. Previously I was **a Cryptography Research Engineer Grantee at the Privacy and Scaling Explorations (PSE) team at Ethereum Foundation**, having worked on privacy-preserving blockchain applications like the **Anon-Aadhaar project**. With extensive experience in cryptographic research and engineering, I’ve worked at leading blockchain companies, including **Polygon (Matic Network), Aztec, Findora, Circularise, and Bolt Labs**.
 
 My expertise spans the **theoretical and practical aspects of zero-knowledge proofs (ZKPs)** and **secure multiparty computation (MPC)** across diverse domains such as **privacy-focused financial applications (confidential transactions, private payments), supply chain traceability, crowdsourcing on Ethereum, blockchain gaming wallets, and energy IoT systems**.
 
