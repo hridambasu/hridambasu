@@ -4,8 +4,29 @@
 ✨Hi there 👋, this is Hridam Basu✨
 </h1>
 
-### More About Me:
-I'm the Founder of Rump Labs. Previously I was **a Cryptography Research Engineer Grantee at the Privacy and Scaling Explorations (PSE) team at Ethereum Foundation**, having worked on privacy-preserving blockchain applications like the **Anon-Aadhaar project**. With extensive experience in cryptographic research and engineering, I’ve worked at leading blockchain companies, including **Polygon (Matic Network), Aztec, Findora, Circularise, and Bolt Labs**.
+## 📢 Course Announcement — January 2026
+
+I’m pleased to announce the launch of my upcoming **Certification Programme on Blockchain, Cryptography, and Zero-Knowledge Proofs (Theory & Applications)** beginning **January 2026**.
+
+This programme is designed for students, developers, engineers, and professionals looking to build strong foundations in modern cryptography, understand ZK architectures, and gain hands-on experience with circuits and proof systems.  
+**No prior background is required.**
+
+### 🔍 Highlights
+- Cryptography fundamentals, elliptic curves, commitments  
+- ZK-SNARKs: Groth16, PLONK, STARKs  
+- ZK-Rollups, ZK-VMs, protocol internals  
+- Lookup arguments, sum-check, polynomial commitments  
+- Build ZK circuits & proof systems from scratch  
+- Official Certification  
+- **50% student discount**
+
+### 🗓 Starts: January 2026  
+🌐 Register: https://www.rumplabs.xyz/  
+📱 WhatsApp: +91 9007915334
+
+
+## More About Me:
+I'm the Founder of [Rump Labs](https://www.rumplabs.xyz/).  Previously I was **a Cryptography Research Engineer Grantee at the Privacy and Scaling Explorations (PSE) team at Ethereum Foundation**, having worked on privacy-preserving blockchain applications like the **Anon-Aadhaar project**. With extensive experience in cryptographic research and engineering, I’ve worked at leading blockchain companies, including **Polygon (Matic Network), Aztec, Findora, Circularise, and Bolt Labs**.
 
 My expertise spans the **theoretical and practical aspects of zero-knowledge proofs (ZKPs)** and **secure multiparty computation (MPC)** across diverse domains such as **privacy-focused financial applications (confidential transactions, private payments), supply chain traceability, crowdsourcing on Ethereum, blockchain gaming wallets, and energy IoT systems**.
 
