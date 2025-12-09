@@ -5,7 +5,7 @@
 </h1>
 
 ## 📢 Course Announcement — January 2026
-
+![Blockchain, Cryptography, ZKP Workshop Poster](./Poster - Blockchain Cryptography.png)
 I’m pleased to announce the launch of my upcoming **Certification Programme on Blockchain, Cryptography, and Zero-Knowledge Proofs (Theory & Applications)** beginning **January 2026**.
 
 This programme is designed for students, developers, engineers, and professionals looking to build strong foundations in modern cryptography, understand ZK architectures, and gain hands-on experience with circuits and proof systems.  
