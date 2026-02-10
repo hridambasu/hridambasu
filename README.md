@@ -4,7 +4,7 @@
 ✨Hi there 👋, this is Hridam Basu✨
 </h1>
 
-## 📢 Course Announcement — January 2026
+## 📢 Course Announcement - January 2026
 
 <img src="./Poster%20-%20Blockchain%20Cryptography.png" alt="Blockchain, Cryptography, ZKP Workshop Poster" width="600">
 
