@@ -60,9 +60,7 @@ I'm always open to interesting opportunities in **AI, Cryptography, Blockchain E
     
 - :speaking_head: Selected Talks:
   - [Devcon Talk](https://www.youtube.com/watch?v=kUv1nR3HQ8w)
-  - [Findora Cryptography Workshop](https://www.youtube.com/watch?v=6XwrGgTmPXM&t=1s)
   
-
 ---
 
 
