@@ -4,11 +4,11 @@
 ✨Hi there 👋, this is Hridam Basu✨
 </h1>
 
-## 📢 Course Announcement - January 2026
+## 📢 Course Announcement - Self Paced
 
 <img src="./Poster%20-%20Blockchain%20Cryptography.png" alt="Blockchain, Cryptography, ZKP Workshop Poster" width="600">
 
-I’m pleased to announce the launch of my upcoming **Certification Programme on Blockchain, Cryptography, and Zero-Knowledge Proofs (Theory & Applications)** beginning **January 2026**.
+I’m pleased to announce the launch of my **Certification Programme on Blockchain, Cryptography, and Zero-Knowledge Proofs (Theory & Applications)**.
 
 This programme is designed for students, developers, engineers, and professionals looking to build strong foundations in modern cryptography, understand ZK architectures, and gain hands-on experience with circuits and proof systems.  
 **No prior background is required.**
@@ -20,36 +20,37 @@ This programme is designed for students, developers, engineers, and professional
 - Lookup arguments, sum-check, polynomial commitments  
 - Build ZK circuits & proof systems from scratch  
 - Official Certification  
-- **50% student discount**
+- **Student discounts**
 
-### 🗓 Starts: January 2026  
+### 🗓 Self Paced  
 🌐 Register: https://www.rumplabs.xyz/  
 📱 WhatsApp: +91 9007915334
 
 
 ## More About Me:
-I'm the Founder of [Rump Labs](https://www.rumplabs.xyz/).  Previously I was **a Cryptography Research Engineer Grantee at the Privacy and Scaling Explorations (PSE) team at Ethereum Foundation**, having worked on privacy-preserving blockchain applications like the **Anon-Aadhaar project**. With extensive experience in cryptographic research and engineering, I’ve worked at leading blockchain companies, including **Polygon (Matic Network), Aztec, Findora, Circularise, and Bolt Labs**.
+I build systems where **AI, Cryptography, and Blockchain meet**.
 
-My expertise spans the **theoretical and practical aspects of zero-knowledge proofs (ZKPs)** and **secure multiparty computation (MPC)** across diverse domains such as **privacy-focused financial applications (confidential transactions, private payments), supply chain traceability, crowdsourcing on Ethereum, blockchain gaming wallets, and energy IoT systems**.
+I'm the **Founder and CTO of [Rump Labs](https://www.rumplabs.xyz/)**, where we design and ship production systems for clients across the US, Europe, Asia, and Africa. Recent work includes:
 
-I’ve worked on a wide range of **zero-knowledge proof systems**, including **NIZKs (Groth-Sahai), ZK-SNARKs (Groth16, PLONK), ZK-STARKs, Recursive SNARKs, and Folding schemes like CCS**. I also have **cryptographic audit experience on a privacy-focused blockchain (Neptune Cash) using a ZK-STARK-based virtual machine (VM) called Triton VM**, where I assessed proof systems, constraints, and security guarantees ([Audit Report](https://neptune.cash/blog/betanet-v2/triton-vm-audit-hridam-basu.pdf)). Recently, I’ve done some work in the intersection of **Blockchain and AI**.
+- An **AI-native visa processing platform** with LLM-driven document extraction, RAG over a constantly changing immigration rulebook, and human-in-the-loop review that replaced manual case-by-case processing.
+- A **multi-agent framework on Farcaster** for automated workflows on the Base blockchain, with planning, tool calling, state management, and safety guardrails around autonomous on-chain actions.
+- **Halo2 privacy circuits** for the Zcash ecosystem, and a **Groth16 verifier for a BitVM-style architecture on Bitcoin**.
 
-Outside of industry roles, I’ve held **research positions at prestigious institutions such as AT&T Labs (New York City), NTT Labs (Tokyo), and TCS Labs**, contributing to advanced cryptographic protocols. I’ve been **invited as a speaker on zero-knowledge proofs and blockchain security** at international conferences, universities, and research institutes worldwide.
+Before Rump Labs, I spent years as a cryptography engineer and researcher in the blockchain world. I worked at the **Ethereum Foundation (Privacy & Scaling Explorations)** on [Anon-Aadhaar](https://github.com/anon-aadhaar), a zero-knowledge proof-of-citizenship protocol for India built with Halo2 and Noir. Earlier, I worked at **Polygon, Aztec, Findora, Circularise, and Bolt Labs**, and audited **Triton VM for Neptune Cash** ([Audit Report](https://neptune.cash/blog/betanet-v2/triton-vm-audit-hridam-basu.pdf)).
 
-I hold an **M.S. in Computer Science from Northeastern University, Boston, USA**, specializing in **Cryptography, Cybersecurity, and Theoretical Computer Science**, and a **B.E. in Information Technology from Jadavpur University, India**.   
+Most of that work centred on **zero-knowledge proofs**: designing and implementing proof systems from NIZKs and SNARKs (Groth16, PLONK) to STARKs and recursive proofs. I applied them to confidential transactions, private payments, Monero-style ring signatures, crowdsourcing on Ethereum, and supply-chain traceability. I've also built **threshold ECDSA for MPC wallets** used in blockchain gaming.
 
-- :computer: These are some of the programming languages and tools that I have worked on:
-  - Languages - Rust, Typescript, Solidity, Golang, Python, C++, Java, C, SQL, Perl
-  - Scripting - Javascript, XML, HTML/CSS, PHP
-  - Functional - PLT Redex, Rackett, OCaml, Reason
-  - Tools - Docker, Apache Kafka, Apache Tomcat, Omnet++
-  - Blockchain Skills - Hyperledger Fabric, Ethereum, Monero
-  - ZK skills - Halo2, Noir, Mina zkapps, StarkNet, Cairo, Zokrates, Circom, snarky
-  - Version Control - Git, SVN, Bitbucket
+I care about pushing research forward and teaching it. My recent paper on **secure two-party quantum computation with complete fairness** is available on [IACR ePrint](https://eprint.iacr.org/). I teach a **10-week graduate-level course, "ZK Proofs in Blockchain: Theory and Applications,"** taken by students worldwide. I helped organise **ZKSummit 14**, before Eurocrypt 2026. I've spoken at conferences and universities globally, including **Devcon, Asiacrypt, NoirCon, ISI Kolkata, IIT Kharagpur, and the University of Kent**, on topics ranging from ZK arithmetization to building your first AI agent.
 
-- :school: My educational background: 
-  - [Jadavpur University](http://www.jaduniv.edu.in/) (2011 - 2015) - Degree: Bachelor of Engineering in Information Technology.
-  - [Northeastern University](https://www.northeastern.edu/) (2015 - 2017) - Degree: Master of Science in Computer Science
+I hold an **M.S. in Computer Science from Northeastern University**, where I focused on cryptography, cybersecurity, and theoretical computer science. I've also done research stints at **AT&T Labs, NTT Research, and TCS Innovation Labs**.
+
+I'm always open to interesting opportunities in **AI, Cryptography, Blockchain Engineering, Research, and Consulting**.
+
+### Technical Skills
+
+- **Languages:** Rust, TypeScript, Solidity, JavaScript, Golang, Python, C++, Java, C, SQL, Perl
+- **Functional Programming:** PLT Redex, Racket, OCaml, Reason
+- **Zero-Knowledge & Cryptography:** Halo2, Noir, Mina zkApps, StarkNet, Cairo, ZoKrates, Circom, Snarky
 
 - :right_anger_bubble: Selected Open Sourced Projects:
   - [Crowdsourcing on Ethereum using ZKPs](https://github.com/hridambasu/swiftlancer-code)
