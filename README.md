@@ -40,7 +40,7 @@ Before Rump Labs, I spent years as a cryptography engineer and researcher in the
 
 Most of that work centred on **zero-knowledge proofs**: designing and implementing proof systems from NIZKs and SNARKs (Groth16, PLONK) to STARKs and recursive proofs. I applied them to confidential transactions, private payments, Monero-style ring signatures, crowdsourcing on Ethereum, and supply-chain traceability. I've also built **threshold ECDSA for MPC wallets** used in blockchain gaming.
 
-I care about pushing research forward and teaching it. My recent paper on **secure two-party quantum computation with complete fairness** is available on [IACR ePrint](https://eprint.iacr.org/2026/883). I teach a **10-week graduate-level course, "ZK Proofs in Blockchain: Theory and Applications,"** taken by students worldwide. I helped organise **ZKSummit 14**, before Eurocrypt 2026. I've spoken at conferences and universities globally, including **Devcon, Asiacrypt, NoirCon, ISI Kolkata, IIT Kharagpur, and the University of Kent**, on topics ranging from ZK arithmetization to building your first AI agent.
+I care about pushing research forward and teaching it. My recent paper on **secure two-party quantum computation with complete fairness** is available on [IACR ePrint](https://eprint.iacr.org/2026/883). I teach a **self-paced graduate-level course, "ZK Proofs in Blockchain: Theory and Applications,"** taken by students worldwide. I helped organise **ZKSummit 14**, before Eurocrypt 2026. I've spoken at conferences and universities globally, including **Devcon, Asiacrypt, NoirCon, ISI Kolkata, IIT Kharagpur, and the University of Kent**, on topics ranging from ZK arithmetization to building your first AI agent.
 
 I hold an **M.S. in Computer Science from Northeastern University**, where I focused on cryptography, cybersecurity, and theoretical computer science. I've also done research stints at **AT&T Labs, NTT Research, and TCS Innovation Labs**.
 
@@ -53,6 +53,7 @@ I'm always open to interesting opportunities in **AI, Cryptography, Blockchain E
 - **Zero-Knowledge & Cryptography:** Halo2, Noir, Mina zkApps, StarkNet, Cairo, ZoKrates, Circom, Snarky
 
 - :right_anger_bubble: Selected Open Sourced Projects:
+  - [DeFi Lending Protocol on Solana with RWA](https://github.com/hridambasu/kestrel-solana)
   - [Crowdsourcing on Ethereum using ZKPs](https://github.com/hridambasu/swiftlancer-code)
   - [Threshold ECDSA](https://github.com/boltlabs-inc/tss-ecdsa)
   -  [Anon-Aadhaar using Halo2](https://github.com/anon-aadhaar/anon-aadhaar-halo2)
