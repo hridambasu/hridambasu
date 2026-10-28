@@ -36,7 +36,7 @@ I'm the **Founder and CTO of [Rump Labs](https://www.rumplabs.xyz/)**, where we 
 - A **multi-agent framework on Farcaster** for automated workflows on the Base blockchain, with planning, tool calling, state management, and safety guardrails around autonomous on-chain actions.
 - **Halo2 privacy circuits** for the Zcash ecosystem, and a **Groth16 verifier for a BitVM-style architecture on Bitcoin**.
 
-Before Rump Labs, I spent years as a cryptography engineer and researcher in the blockchain world. I worked at the **Ethereum Foundation (Privacy & Scaling Explorations)** on [Anon-Aadhaar](https://github.com/anon-aadhaar), a zero-knowledge proof-of-citizenship protocol for India built with Halo2 and Noir. Earlier, I worked at **Polygon, Aztec, Findora, Circularise, and Bolt Labs**, and audited **Triton VM for Neptune Cash** ([Audit Report](https://neptune.cash/blog/betanet-v2/triton-vm-audit-hridam-basu.pdf)).
+Before Rump Labs, I spent years as a cryptography engineer and researcher in the blockchain world. I worked at the **Ethereum Foundation (Privacy & Scaling Explorations)** on [Anon-Aadhaar](https://github.com/anon-aadhaar), a zero-knowledge proof-of-citizenship protocol for India built with Halo2 and Noir. Earlier, I worked at **Polygon, Aztec, Findora, Circularise, and Bolt Labs**, and audited **Triton VM for Neptune Cash**.
 
 Most of that work centred on **zero-knowledge proofs**: designing and implementing proof systems from NIZKs and SNARKs (Groth16, PLONK) to STARKs and recursive proofs. I applied them to confidential transactions, private payments, Monero-style ring signatures, crowdsourcing on Ethereum, and supply-chain traceability. I've also built **threshold ECDSA for MPC wallets** used in blockchain gaming.
 
