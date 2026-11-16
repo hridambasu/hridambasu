@@ -53,6 +53,7 @@ I'm always open to interesting opportunities in **AI, Cryptography, Blockchain E
 - **Zero-Knowledge & Cryptography:** Halo2, Noir, Mina zkApps, StarkNet, Cairo, ZoKrates, Circom, Snarky
 
 - :right_anger_bubble: Selected Open Sourced Projects:
+  - [Kyber and Dilithium Post-Quantum Cryptography Algorithms in Rust](https://github.com/hridambasu/pqc-rust)
   - [DeFi Lending Protocol on Solana with RWA](https://github.com/hridambasu/kestrel-solana)
   - [Crowdsourcing on Ethereum using ZKPs](https://github.com/hridambasu/swiftlancer-code)
   - [Threshold ECDSA](https://github.com/boltlabs-inc/tss-ecdsa)
