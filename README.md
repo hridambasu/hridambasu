@@ -53,6 +53,7 @@ I'm always open to interesting opportunities in **AI, Cryptography, Blockchain E
 - **Zero-Knowledge & Cryptography:** Halo2, Noir, Mina zkApps, StarkNet, Cairo, ZoKrates, Circom, Snarky
 
 - :right_anger_bubble: Selected Open Sourced Projects:
+  - [Lean 4 Formalisation of Quantum 2PC with Fairness](https://github.com/hridambasu/Quantum-MPC-with-fairness)
   - [TEE-Backed ZK Rollup with Preconfirmations, Slashing, and Cross-Chain Settlement](https://github.com/hridambasu/lockstep)
   - [zkTLS certification verifier & SP1 proof of investor eligibility in Rust](https://github.com/hridambasu/zkTLS-rust)
   - [Kyber and Dilithium Post-Quantum Cryptography Algorithms in Rust](https://github.com/hridambasu/pqc-rust)
